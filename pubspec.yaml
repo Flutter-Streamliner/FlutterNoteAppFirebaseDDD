@@ -25,6 +25,7 @@ dependencies:
   cupertino_icons: ^0.1.2
   freezed_annotation: ^0.7.1
   dartz: ^0.8.9
+  flutter_bloc: ^3.2.0
 
 dev_dependencies:
   flutter_test:
